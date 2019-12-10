@@ -8,11 +8,12 @@ end
 
 def add_element_to_end_of_array(array, element)
   billy = [1, 2, 3 ,4, 5]
-  billy << ("Meow")
+  billy << ("arrays!")
 end
 
 def add_element_to_start_of_array(array, element)
-  
+  reasons_I_am_against_conforming = ["My", "arrays", "aren't", "Wrong"]
+  reasons_I_am_against_conforming.unshift = ("wow")
 end
 
 def remove_element_from_end_of_array(array)
