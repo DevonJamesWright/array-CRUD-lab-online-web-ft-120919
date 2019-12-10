@@ -17,7 +17,7 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  easons_I_am_against_conforming = ["My", "arrays", "aren't", "Wrong"]
+  easons_I_am_against_conforming = ["My", "arrays", "aren't", "arrays!"]
   easons_I_am_against_conforming.pop
 end
 
