@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   easons_I_am_against_conforming = ["My", "arrays", "aren't", "Wrong"]
-  reasons_I_am_against_conforming.pop
+  easons_I_am_against_conforming.pop
 end
 
 def remove_element_from_start_of_array(array)
