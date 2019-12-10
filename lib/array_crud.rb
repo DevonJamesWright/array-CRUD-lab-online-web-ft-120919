@@ -28,13 +28,15 @@ end
 
 def retrieve_element_from_index(array, index_number)
   reasons_I_am_against_conforming = ["My", "arrays", "aren't", "Wrong"]
-  reasons_I_am_against_conforming.index
+  reasons_I_am_against_conforming.index ("arrays")
 end
 
 def retrieve_first_element_from_array(array)
-  
+reasons_I_am_against_conforming = ["My", "arrays", "aren't", "Wrong"]
+reasons_I_am_against_conforming.first
 end
 
 def retrieve_last_element_from_array(array)
-  
+  reasons_I_am_against_conforming = ["My", "arrays", "aren't", "Wrong"]
+  reasons_I_am_against_conforming.last
 end
