@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   easons_I_am_against_conforming = ["My", "arrays", "aren't", "Wrong"]
-  reasons_I_am_against_conforming.pop()
+  reasons_I_am_against_conforming.pop
 end
 
 def remove_element_from_start_of_array(array)
@@ -28,7 +28,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   reasons_I_am_against_conforming = ["am", "arrays", "am", "Wrong"]
-  reasons_I_am_against_conforming.0
+  reasons_I_am_against_conforming.index (0)
 end
 
 def retrieve_first_element_from_array(array)
