@@ -28,7 +28,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   reasons_I_am_against_conforming = ["am", "arrays", "aren't", "Wrong"]
-  reasons_I_am_against_conforming.index (3)
+  reasons_I_am_against_conforming.index? (3)
 end
 
 def retrieve_first_element_from_array(array)
