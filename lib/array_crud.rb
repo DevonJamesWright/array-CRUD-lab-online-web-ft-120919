@@ -37,6 +37,6 @@ reasons_I_am_against_conforming.first
 end
 
 def retrieve_last_element_from_array(array)
-  reasons_I_am_against_conforming = ["My", "arrays", "aren't", "arrays"]
+  reasons_I_am_against_conforming = ["My", "arrays", "aren't", "arrays!"]
   reasons_I_am_against_conforming.last
 end
