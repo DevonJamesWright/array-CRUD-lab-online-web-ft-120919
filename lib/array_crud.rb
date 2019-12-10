@@ -22,7 +22,7 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
-  reasons_I_am_against_conforming = ["wow", "arrays", "aren't", "Wrong"]
+  reasons_I_am_against_conforming = ["wow", "arrays", "aren't", "arrays!"]
   reasons_I_am_against_conforming.shift
 end
 
